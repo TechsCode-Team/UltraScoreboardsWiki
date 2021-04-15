@@ -6,7 +6,7 @@ After installing you just need to add the ``ultrascoreboards.admin`` permission 
 Other commands:
 
 - **/usc**
-* **/usc setScoreBoard (Player) (Scoreboard)** Sets the scoreboard for a specific player`
+* **/usc setScoreBoard (Player) (Scoreboard)** Sets the scoreboard for a specific player
 * **/usc edit (Scoreboard)** Opens the edit GUI for the specific scoreboard
 
 All the commands mentioned above require the ``ultrascoreboards.admin`` permission
