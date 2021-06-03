@@ -1,12 +1,10 @@
 # Welcome!
-<br>
 Welcome to the Wiki page of Ultra Scoreboards, where you can find all the information and documentation. You can navigate the wiki using the sidebar on the right.
 <br>
 
 ## Contact
+You can communicate with our support team by joining our [Discord](/discord), this is the most efficient and quickest way we can give you support.
 <br>
-
-You can communicate with our support team by joining our [Discord](/discord), this is the most efficient and quickest way we can give you support.<br>
 
 ## What can you find on the wiki?
  - [Commands](/wiki/overvieuw) *The list of commands*
