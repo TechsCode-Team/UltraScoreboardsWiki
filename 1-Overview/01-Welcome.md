@@ -7,11 +7,9 @@ You can communicate with our support team by joining our [Discord](/discord), th
 <br>
 
 ## What can you find on the wiki?
- - [Commands](/wiki/overvieuw) *The list of commands*
- - [Permissions](/wiki/overvieuw) *The list of permisisons*
+ - [Commands](/wiki/overview) *The list of commands*
+ - [Permissions](/wiki/overview) *The list of permisisons*
  - [Installation Guide](/wiki/installation) *A quick guide on how to isntall Ultra Scoreboard*
- - [Discord Intergration](/wiki/discordintegration) *A quick guide on how to setup the Discord integration*
  - [Features](/wiki/features) *A list with all the features of Ultra Scoreboard*
- - [Addons](/wiki/addons) *A with all the addons of Ultra Scoreboard*
  - [API](/wiki/api) *A guide on how to use the API for developers*
 
