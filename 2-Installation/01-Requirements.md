@@ -4,7 +4,7 @@ You will need either **SpigotMC, PaperMC or [a similar fork](https://github.com/
 
 ## Server Version
 Ultra Scoreboard has been tested and supported on versions between **1.8.8 - 1.17.X**. Versions out of this range are not be supported and will not recieve support.
-***Note:*** *Newly released versions are mainly tested on the latest version of Spigot or Paper.*
+***Note:*** *Newly released versions are tested on the latest version of Spigot.*
 <br>
 
 # Download The Latest Build
