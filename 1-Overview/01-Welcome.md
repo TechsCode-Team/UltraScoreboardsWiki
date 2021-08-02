@@ -9,7 +9,6 @@ You can communicate with our support team by joining our **[Discord](https://dis
 ## What can you find on the wiki?
  - [Commands](/wiki/overview) - The list of commands
  - [Permissions](/wiki/overview) - The list of permisisons
- - [Installation Guide](/wiki/installation) - A quick guide on how to install Ultra Scoreboard
- - [Features](/wiki/features) - A list with all the features of Ultra Scoreboard
+ - [Installation Guide](/wiki/installation) - A quick guide on how to install Ultra Scoreboards
+ - [Features](/wiki/features) - A list with all the features of Ultra Scoreboards
  - [API](/wiki/api) - A guide on how to use the API for developers
-
