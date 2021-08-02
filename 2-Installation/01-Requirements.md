@@ -8,4 +8,4 @@ Ultra Scoreboard has been tested and supported on versions between **1.8.8 - 1.1
 <br>
 
 # Download The Latest Build
-Download the latest build of Ultra Scoreboard via the resource page [here](https://www.spigotmc.org/resources/authors/techscode.29620/). <!--- < CHOOSE PLUGIN FROM AUTHOR PAGE -->
+Download the latest build of Ultra Scoreboard via the resource page [here](https://www.spigotmc.org/resources/ultra-scoreboards.93726/)
