@@ -14,6 +14,8 @@ Here is a list of all the commands that can be used.
   Switch your scoreboard with a simple command
 * `/usc toggleBoard`
   Toggle your scoreboard on and off with a simple command
+* `/usc deleteBoard <BoardName>`
+  Delete a specific scoreboard by name
 <br>
 
 ## Symbols:
