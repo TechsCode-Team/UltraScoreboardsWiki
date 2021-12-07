@@ -8,5 +8,5 @@ Here are all the default features from Ultra Scoreboards
 * `Add permissions for every single line (Not required)`
 * `You can add a blank line by setting it to any type of color code`
 
-# GIF Testing 0.5
-![Logo](https://github.com/TechsCode-Team/UltraScoreboardsWiki/blob/master/uboards.gif)
+# GIF Testing 0.6
+![Logo](/uboards.gif)
