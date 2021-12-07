@@ -7,6 +7,3 @@ Here are all the default features from Ultra Scoreboards
 * `Create and delete scoreboards with a GUI`
 * `Add permissions for every single line (Not required)`
 * `You can add a blank line by setting it to any type of color code`
-
-# GIF Testing 0.8
-![Logo](https://raw.githubusercontent.com/TechsCode-Team/UltraScoreboardsWiki/master/uboards.gif)
