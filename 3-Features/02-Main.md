@@ -9,4 +9,4 @@ Here are all the default features from Ultra Scoreboards
 * `You can add a blank line by setting it to any type of color code`
 
 # GIF Testing 0.6
-![Logo](/uboards.gif)
+![Logo](https://github.com/TechsCode-Team/UltraScoreboardsWiki/blob/master/uboards.gif)
