@@ -1,0 +1,50 @@
+{
+  "overview": {
+    "iconType": "fas",
+    "icon":"map",
+    "title":"Overview",
+    "subItems": {
+
+    }
+  },
+  "installation": {
+    "iconType": "fas",
+    "icon":"tasks",
+    "title":"Installation",
+    "subItems": {
+      "server": {
+        "title":"Server"
+      },
+      "proxy": {
+        "title":"Proxy"
+      },
+      "troubleshooting": {
+        "title":"Troubleshooting"
+      }
+    }
+  },
+  "features": {
+    "iconType": "fas",
+    "icon":"info",
+    "title":"Features",
+    "subItems": {
+
+    }
+  },
+  "faq": {
+    "iconType": "fas",
+    "icon":"question",
+    "title":"FAQ",
+    "subItems": {
+
+    }
+  },
+  "api": {
+    "iconType": "fas",
+    "icon":"code",
+    "title":"API",
+    "subItems": {
+
+    }
+  }
+}
