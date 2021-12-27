@@ -7,13 +7,15 @@ You can communicate with our support team by joining our **[Discord](https://dis
 <br>
 
 ## What can you find on the wiki?
-- [Commands](/wiki/overview) - The list of commands
-- [Permissions](/wiki/overview) - The list of permisisons
+- [Commands](/wiki/overview#commands) - The list of commands
+- [Permissions](/wiki/overview#perms) - The list of permisisons
 - [Installation Guide](/wiki/installation) - A quick guide on how to install Ultra Scoreboards
 - [Features](/wiki/features) - A list with all the features of Ultra Scoreboards
 - [API](/wiki/api) - A guide on how to use the API for developers
+<br>
+<br>
 
-# Commands
+# Commands {#commands}
 Here is a list of all the commands that can be used.
 <br>
 
@@ -35,8 +37,9 @@ Here is a list of all the commands that can be used.
 
 ## Symbols:
 - <> = Required
+<br>
 
-# Permissions
+# Permissions {#perms}
 Here is a list of all the permissions that can be used
 <br>
 
