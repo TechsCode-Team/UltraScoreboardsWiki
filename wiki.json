@@ -3,6 +3,8 @@
     "iconType": "fas",
     "icon":"map",
     "title":"Overview",
+    "prev": { "url": "", "title": "" },
+    "next": { "url": "", "title": "" },
     "subItems": {
 
     }
@@ -11,15 +13,23 @@
     "iconType": "fas",
     "icon":"tasks",
     "title":"Installation",
+    "prev": { "url": "", "title": "" },
+    "next": { "url": "", "title": "" },
     "subItems": {
       "server": {
-        "title":"Server"
+        "title":"Server",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
       },
       "proxy": {
-        "title":"Proxy"
+        "title":"Proxy",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
       },
       "troubleshooting": {
-        "title":"Troubleshooting"
+        "title":"Troubleshooting",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
       }
     }
   },
@@ -27,6 +37,8 @@
     "iconType": "fas",
     "icon":"info",
     "title":"Features",
+    "prev": { "url": "", "title": "" },
+    "next": { "url": "", "title": "" },
     "subItems": {
 
     }
@@ -35,6 +47,8 @@
     "iconType": "fas",
     "icon":"question",
     "title":"FAQ",
+    "prev": { "url": "", "title": "" },
+    "next": { "url": "", "title": "" },
     "subItems": {
 
     }
@@ -43,6 +57,8 @@
     "iconType": "fas",
     "icon":"code",
     "title":"API",
+    "prev": { "url": "", "title": "" },
+    "next": { "url": "", "title": "" },
     "subItems": {
 
     }
