@@ -1,5 +1,5 @@
 # Overview
-Below you can find all the available features of Ultra Scoreboard. If you want to request new features feel free to add them to our feedback website [HERE](https://feedback.techscode.com/t/ultrascoreboards)
+Below you can find all the available features of Ultra Scoreboards. If you want to request new features feel free to add them to our **[feedback repository](https://github.com/TechsCode-Team/Feedback/discussions/categories/suggestions)**
 <br>
 
 # Main features of Ultra Scoreboards
