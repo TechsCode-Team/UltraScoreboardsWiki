@@ -1,13 +1,16 @@
 # Server installation
-Once you have downloaded the latest version of Ultra Scoreboard put its .jar file inside the `plugins` directory of your server.
-***Note:*** *Make sure to stop the server before doing this.*
+First step is to download Ultra Scoreboards. Once you're done with this. `Stop your server`, and put the .jar file inside the `plugins` directory of your server.
 <br>
 
-When the .jar has been uploaded you can now start your server.
+Once the .jar has been uploaded in your folder, you can start your server.
 <br>
 
-When your server has been started there should be a new folder called Ultra Scoreboard. This means that Ultra Scoreboard has loaded properly and can now be used.
+Once your server has started, a new folder called Ultra Scoreboards should have been created, inside the `plugins` directory. This means that Ultra Scoreboards has loaded properly and can now be used.
 <br>
 
 ## Testing the plugin
-If you have followed the steps above the plugin is now running. You can now use `/uboard`
+While your server is starting, look at the console for any possible [ERROR] message. Any [WARN] is not a problem, and will not disturb your use of the plugin.
+
+You should now be able to do `/uboard` to open the GUI.
+
+If you see a gui, that means you are good to go!

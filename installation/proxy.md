@@ -1,5 +1,5 @@
 # Proxy Installation
-UltraScoreboards works on every proxy based of **[BungeeCord](https://ci.md-5.net/job/BungeeCord)**. If you use a proxy like **[Waterfall](https://papermc.io/downloads#Waterfall)** or technically every proxy that is forked (based) of either BungeeCord or Waterfall. The plugin should work just fine. Nevertheless, we do recommend using a proxy such as Waterfall, which is more performant and secure than BungeeCord.
+Ultra Scoreboards works on every proxy based of **[BungeeCord](https://ci.md-5.net/job/BungeeCord)**. If you use a proxy like **[Waterfall](https://papermc.io/downloads#Waterfall)** or technically every proxy that is forked (based) of either BungeeCord or Waterfall. The plugin should work just fine. Nevertheless, we do recommend using a proxy such as Waterfall, which is more performant and secure than BungeeCord.
 <br>
 
 For a proxy installation, you need to repeat the plugin installation process for every Spigot server that you have. Once you have finished installing the plugin on all the back-end (Spigot) servers, you need to install it on the proxy.
@@ -10,13 +10,13 @@ The process is similar as the Spigot installation:
 - Upload the plugin.
 - Start your server.
 
-`Note:` *You will need a MySQL database to be able to use UltraScoreboards in proxy mode. Depending on your host, the process can vary, and will not be mentionned or explained here.*
+`Note:` *You will need a MySQL database to be able to use Ultra Scoreboards in proxy mode. Depending on your host, the process can vary, and will not be mentionned or explained here.*
 
 Once the plugin has been installed on the proxy, and that it's loading as expected, we need to set up the MySQL connections inside the back-end servers. This part is important, as it will synchronize all your data accross your spigot servers.
 <br>
 
 ## Connecting to MySQL
-As mentionned above, a MySQL database is needed to sync UltraScoreboards accross servers. To start your syncing process, connect to your server in-game, and open the plugin's GUI by executing the command `/uboards` in chat.
+As mentionned above, a MySQL database is needed to sync Ultra Scoreboards accross servers. To start your syncing process, connect to your server in-game, and open the plugin's GUI by executing the command `/uboards` in chat.
 <br>
 
 Then click on the Hook to extend the gui and see more options.
