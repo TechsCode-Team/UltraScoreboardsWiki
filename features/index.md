@@ -8,8 +8,15 @@ Below you can find all the available features of Ultra Scoreboards. If you want 
 Here are all the features from Ultra Scoreboards
 <br>
 
-* `Manage players scoreboards within a GUI`
-* `Modify your scoreboards with a GUI`
-* `Create and delete scoreboards with a GUI`
-* `Add permissions for every single line (Not required)`
-* `You can add a blank line by setting it to any type of color code`
+* **`Manage Players`**
+  Manage players scoreboards within a GUI
+* **`Modify Scoreboards`**
+  Modify your scoreboards with a GUI
+* **`Permission Management`**
+  Add Permissions to a single line or entire scoreboards
+* **`Compatibility`**
+  Works with any placeholders
+* **`BungeeCord & MySQL`**
+  Compatible with MySQL & Multple Servers
+* **`HEX & Gradient & Animations support`**
+  HEXCODE support, Gradient support and Animations support. (Title and Lines)
