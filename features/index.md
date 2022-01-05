@@ -3,7 +3,9 @@ Below you can find all the available features of Ultra Scoreboards. If you want 
 <br>
 
 # Main features of Ultra Scoreboards
-Here are all the default features from Ultra Scoreboards
+<br>
+
+Here are all the features from Ultra Scoreboards
 <br>
 
 * `Manage players scoreboards within a GUI`
