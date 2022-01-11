@@ -6,7 +6,16 @@
     "prev": { "url": "", "title": "" },
     "next": { "url": "", "title": "" },
     "subItems": {
-
+      "commands": {
+        "title":"Commands",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      },
+      "permissions": {
+        "title":"Permissions",
+        "prev": { "url": "", "title": "" },
+        "next": { "url": "", "title": "" }
+      }
     }
   },
   "installation": {
