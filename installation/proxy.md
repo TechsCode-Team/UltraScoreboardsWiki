@@ -6,6 +6,8 @@ For a proxy installation, you need to repeat the plugin installation process for
 <br>
 
 The process is similar as the Spigot installation:
+<br>
+
 - Shut down your server.
 - Upload the plugin.
 - Start your server.
