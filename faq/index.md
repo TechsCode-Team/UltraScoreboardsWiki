@@ -7,3 +7,6 @@ Below you can find all the frequently asked questions of Ultra Scoreboards. If y
 
 Here are all the frequently asked questions from Ultra Scoreboards.
 <br>
+
+* **`Does the plugin support Velocity?`**
+  At the moment it does not support Velocity, but in the future it will
