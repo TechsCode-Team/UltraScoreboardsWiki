@@ -1,5 +1,5 @@
 # Permissions
-Here is a list of all the permissions that can be used
+Here is a list of all the permissions that can be used.
 <br>
 
 * `ultrascoreboards.admin`
