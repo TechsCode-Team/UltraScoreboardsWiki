@@ -8,7 +8,7 @@
 **`Proxy isn't connected`**
 * If your proxy isn't connected you need to do it manually.
   First, we need the MySQL key from a connected server. 
-  This can be found in there *\SERVER_DIRECOTRY\plugins\UltraPermissions*. 
+  This can be found in there *\SERVER_DIRECTORY\plugins\UltraPermissions*. 
   Here you need to copy the MySQL key, and paste it inside the config of the proxy (same directory as above).
 <br>
 
