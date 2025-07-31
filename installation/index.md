@@ -3,11 +3,22 @@ Ultra Scoreboards requires **[Spigot](https://getbukkit.org/download/spigot)**, 
 <br>
 
 ## Server Version
-Ultra Scoreboards is supported on all versions (release) from **1.8.8 to 1.18.X**. Versions under 1.8 and every pre-release/snapshot will not receive any support.
+Ultra Scoreboards is supported on all versions (release) from **1.8.8 to 1.21.X**. Versions under 1.8 and every pre-release/snapshot will not receive any support.
 <br>
 
 **`NOTE:` Our plugins do not officially support offline-mode!**
 <br>
+While we work on updating the core of our plugins, our plugins currently do not support Velocity or any fork thereof. 
+<br>
 
 # Download The Latest Build
-Download the latest build of Ultra Scoreboard via the resource page **[here](https://www.spigotmc.org/resources/ultra-scoreboards.93726/)**.
+Download the latest build of Ultra Scoreboard via one of the resources page.
+<br>
+**[SpigotMC](https://www.spigotmc.org/resources/ultra-scoreboards.93726/)**
+<br>
+**[PolyMart](https://polymart.org/product/1401/ultra-scoreboards)**
+<br>
+or
+<br>
+**[BuiltByBit](https://builtbybit.com/resources/ultra-scoreboards.20697/)**
+
