@@ -1,5 +1,5 @@
 # Overview
-Below you can find all the available features of Ultra Scoreboards. If you want to request new features feel free to add them to our **[feedback repository](https://github.com/TechsCode-Team/Feedback/discussions/categories/suggestions)**.
+Below you can find all the available features of Ultra Scoreboards. If you want to request new features feel free to add them to our Suggestions channel on our **[Discord](https://ultrascoreboards.com/discord)**
 <br>
 
 # Main features of Ultra Scoreboards
@@ -20,3 +20,5 @@ Here are all the features from Ultra Scoreboards
   Compatible with MySQL & Multple Servers
 * **`HEX & Gradient & Animations support`**
   HEXCODE support, Gradient support and Animations support. (Title and Lines)
+* **`Multiple Scoreboards`**
+  Create as many Scoreboards as you like
