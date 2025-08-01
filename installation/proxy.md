@@ -2,7 +2,7 @@
 Ultra Scoreboards works on every proxy based of **[BungeeCord](https://ci.md-5.net/job/BungeeCord)**. If you use a proxy like **[Waterfall](https://papermc.io/downloads#Waterfall)** or technically every proxy that is forked (based) of either BungeeCord or Waterfall. The plugin should work just fine. Nevertheless, we do recommend using a proxy such as Waterfall, which is more performant and secure than BungeeCord.
 <br>
 
-For a proxy installation, you need to repeat the plugin installation process for every Spigot server that you have. Once you have finished installing the plugin on all the back-end (Spigot) servers, you need to install it on the proxy.
+For a proxy installation, you need to repeat the plugin installation process for every Spigot server that you have. Once you have finished installing the plugin on all the back-end (Spigot/Paper) servers, you need to install it on the proxy.
 <br>
 
 The process is similar as the Spigot installation:
@@ -60,7 +60,17 @@ Once you have successfully connected the plugin to your database, restart your s
 When you have repeated this process for all of your servers, your plugin is now proxy-ready.
 <br>
 
-`TIPS:`
+
+### Manual MySQL Entry
+If your proxy isn't connected you need to do it manually.
+<br>First, we need the MySQL key from a connected server. This can be found in there *\SERVER_DIRECTORY\plugins\UltraScoreboards*. 
+Here you need to copy the MySQL key, and paste it inside the config of the proxy (same directory as above).
+<br>
+
+**`NOTE:` This key can continue on a second line, so make sure to copy it all!**
+<br>
+
+### `TIPS:`
 - *If you made an error while entering your credentials, you will have to clear them and re-enter them.*
 - *After typing your database credentials for the first time, instead of copying and pasting the same strings again and again, you can press the arrow up key, to go back to the messages you send, and finding your credentials. This will make the installation process much faster and easier.*
 - *Once you're done setting up the database, you can wait until you entered the credentials in all the spigot servers to restart them. This will avoid restarting your proxy multiple times.*
