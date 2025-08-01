@@ -18,7 +18,5 @@ Download the latest build of Ultra Scoreboard via one of the resources page.
 <br>
 **[PolyMart](https://polymart.org/product/1401/ultra-scoreboards)**
 <br>
-or
-<br>
 **[BuiltByBit](https://builtbybit.com/resources/ultra-scoreboards.20697/)**
 
