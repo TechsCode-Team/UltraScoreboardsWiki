@@ -8,8 +8,6 @@ Ultra Scoreboards is supported on all versions (release) from **1.8.8 to 1.21.X*
 
 **`NOTE:` Our plugins do not officially support offline-mode!**
 <br>
-While we work on updating the core of our plugins, our plugins currently do not support Velocity or any fork thereof. 
-<br>
 
 # Download The Latest Build
 Download the latest build of Ultra Scoreboard via one of the resources page.
