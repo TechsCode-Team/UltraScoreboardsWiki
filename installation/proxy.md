@@ -2,6 +2,10 @@
 Ultra Scoreboards works on every proxy based of **[BungeeCord](https://ci.md-5.net/job/BungeeCord)**. If you use a proxy like **[Waterfall](https://papermc.io/downloads#Waterfall)** or technically every proxy that is forked (based) of either BungeeCord or Waterfall. The plugin should work just fine. Nevertheless, we do recommend using a proxy such as Waterfall, which is more performant and secure than BungeeCord.
 <br>
 
+**`Note:`**
+While we work on updating the core of our plugins, our plugins currently do not support Velocity or any fork thereof. 
+<br>
+
 For a proxy installation, you need to repeat the plugin installation process for every Spigot server that you have. Once you have finished installing the plugin on all the back-end (Spigot/Paper) servers, you need to install it on the proxy.
 <br>
 
